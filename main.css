@@ -1,0 +1,38 @@
+#contact{
+    border: 1px solid #000 ;
+    padding: 10px;
+}
+body {
+    background-color:lightblue ;
+}
+h1{
+    border: 1px solid #000 ;
+    padding: 20px;
+    }
+ .Parish:hover{
+     box-shadow: 0px 0px 0px 10px blue;
+    } 
+.london:hover{
+     box-shadow: 0px 0px 0px 10px blue;
+    } 
+ .Амстердам:hover{
+     box-shadow: 0px 0px 0px 10px blue;
+    }
+ .Tocio:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     }
+  .Балі:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     } 
+    .Сеул:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     } 
+     .Нью-Йорк:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     } 
+     .Лос-Анджелес:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     } 
+    .Торонто:hover{
+     box-shadow: 0px 0px 0px 10px blue; 
+     } 
