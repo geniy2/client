@@ -33,38 +33,50 @@ header nav ul{
     margin: 0;
 }
 
-.Parish:hover {
+.Київ:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.london:hover {
+.Львів:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Амстердам:hover {
+.Одеса:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Tocio:hover {
+.Чернівці:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Балі:hover {
+.Харків:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Сеул:hover {
+.Дніпро:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Нью-Йорк:hover {
+.Івано-Франківськ:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Лос-Анджелес:hover {
+.Запоріжжя:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
 
-.Торонто:hover {
+.Полтава:hover {
     box-shadow: 0px 0px 0px 10px blue;
 }
+p {
+    margin-bottom: 730px;
+  }
+  body {
+    background-image: url('https://f.discover.ua/photo/744/-IUwX.jpg');
+}
+body {
+    color: white;
+}
+
+
+  
